@@ -1,5 +1,7 @@
 package day01.homework;
 
+import java.util.InputMismatchException;
+
 public class Five {
     public static void main(String[] args) {
         int sum = 0;
