@@ -9,7 +9,7 @@ public class PositiveTriangle {
             }
 
             for (int j = 0; j < 2*i + 1 ; j ++) {
-                System.out.print("2");
+                System.out.print("1");
             }
             System.out.println();
         }
