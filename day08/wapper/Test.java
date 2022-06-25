@@ -1,4 +1,4 @@
-package wapper;
+package day08.wapper;
 
 // 八种基本数据类型 对应的 类 类型
 public class Test {

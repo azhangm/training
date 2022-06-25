@@ -1,4 +1,4 @@
-package generic;
+package day08.generic;
 /*
 * GenericTest<E>
 * 泛型类 尖括号里面是一个参数类型

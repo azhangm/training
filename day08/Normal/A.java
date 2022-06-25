@@ -1,4 +1,4 @@
-package Normal;
+package day08.Normal;
 
 import day02.arr.arr.Array;
 

@@ -1,4 +1,4 @@
-package Enum;
+package day08.Enum;
 
 public class Int {
     public static int MAX_VALUE = (int) Math.pow(2,31) - 1;

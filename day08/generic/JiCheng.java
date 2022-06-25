@@ -1,6 +1,4 @@
-package generic;
-
-import Normal.A;
+package day08.generic;
 
 import java.util.*;
 

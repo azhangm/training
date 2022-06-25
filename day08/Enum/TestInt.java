@@ -1,4 +1,4 @@
-package Enum;
+package day08.Enum;
 
 public class TestInt {
 

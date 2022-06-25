@@ -1,4 +1,4 @@
-package wapper;
+package day08.wapper;
 
 public class Int {
     private int i;

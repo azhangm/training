@@ -1,4 +1,4 @@
-package Enum;
+package day08.Enum;
 
 import java.util.Scanner;
 

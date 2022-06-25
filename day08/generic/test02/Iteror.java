@@ -1,4 +1,4 @@
-package generic.test02;
+package day08.generic.test02;
 
 import java.util.ArrayList;
 import java.util.Iterator;

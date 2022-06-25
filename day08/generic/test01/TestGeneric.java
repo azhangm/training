@@ -1,8 +1,4 @@
-package generic.test01;
-
-import wapper.Int;
-
-import java.util.ArrayList;
+package day08.generic.test01;
 
 public class TestGeneric<a,c,d,s> {
     a s;

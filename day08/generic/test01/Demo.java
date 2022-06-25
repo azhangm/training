@@ -1,4 +1,4 @@
-package generic.test01;
+package day08.generic.test01;
 
 import java.util.List;
 

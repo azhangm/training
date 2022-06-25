@@ -1,4 +1,4 @@
-package Que;
+package day08.Que;
 
 import java.util.Deque;
 import java.util.LinkedList;
